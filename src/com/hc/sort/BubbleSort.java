@@ -1,6 +1,6 @@
 package com.hc.sort;
 
-//  this if from zh
+
 public class BubbleSort {
 
 	public static void main(String[] args) {
